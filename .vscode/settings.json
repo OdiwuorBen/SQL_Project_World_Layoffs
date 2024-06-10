@@ -19,10 +19,10 @@
             "port": 33060,
             "driver": "MySQL",
             "name": "MySQL",
-            "database": "test",
-            "username": "mysql",
+            "database": "world_layoffs",
+            "username": "benn",
             "connectionTimeout": 30,
-            "password": "0019"
+            "password": "password"
         }
     ]
 }
